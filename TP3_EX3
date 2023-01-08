@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Utilisateurs connectés :"
+who
